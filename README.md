@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barbarayam
 - 👀 I’m interested in everything Python; data analytics and automation!
-- 🌱 I’m currently learning to use Git and C programming.
+- 🌱 I’m currently learning to use Git and Machine Learning using Python.
 - 💞️ I love all things programming, and looking for like-minded individuals so that we may collaborate and grow in code together. 
 - 📫 You can reach me at my email: yam.barbara@gmail.com
       & also my personal website: www.barbarayam.com
