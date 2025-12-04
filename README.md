@@ -1,14 +1,48 @@
-- 👋 Hi, I’m @barbarayam
-- 👀 I’m interested in everything Python; data analytics and automation!
-- 🌱 I’m currently learning to use Git and Machine Learning using Python.
-- 🔥 I first started publishing on Git since 2017 and though I have been consistently working on programming - dabbling in Python, Html, CSS, Javascript, R 
-- 🔥🔥 through a variety of courses such as CS50, even tried 42, and many other courses, this time, I am determined to stay focus and make commits on a regular basis.
-- 💞️ I love all things programming, and looking for like-minded individuals so that we may collaborate and grow in code together. 
-- 📫 You can reach me at my personal website: www.barbarayam.com
-- 😃: Happy to connect!
+# Hi there, I'm Barbara! 👋
+> **Polytechnic Lecturer (Analytics) | 42 Singapore Cadet | Future Technical Product Manager**
 
-<!---
-barbarayam/barbarayam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I bridge the gap between business strategy and engineering reality. Currently, I am leveraging my background in **Statistics & Analytics** while rigorously upskilling in **Computer Science (C & Algorithms)** at 42 Singapore.
 
+---
+
+## 🧭 The Portfolio Map
+I organize my code by "Tech Stack" and purpose. Here is where you can find my work:
+
+### 🛠️ Systems Engineering & C ( The Deep Dive )
+*My journey into low-level programming, memory management, and algorithms.*
+* **[📂 42](https://github.com/barbarayam/42)**: My main repository for the 42 Curriculum. Contains my work from the Piscine (C00-C08) and upcoming Circle 2 projects.
+    * *Focus:* Memory allocation, Pointers, Unix Shell, Algorithms.
+
+### 🐍 Python & Analytics ( The Expert Zone )
+*Data automation, analysis, and scripting.*
+* **[📂 Python_Projects](https://github.com/barbarayam/Python_Projects)**: My playground for Python apps, automation scripts, and data tools.
+    * *Focus:* Automation, Data Analysis, Rapid Prototyping.
+
+### 🌐 Web Development ( The Playground )
+*Experiments with frontend technologies.*
+* **[📂 basics-beat-that](https://github.com/barbarayam/basics-beat-that)**: JavaScript logic games.
+* **[📂 skills-code-with-codespaces](https://github.com/barbarayam/skills-code-with-codespaces)**: HTML/CSS structure tests.
+
+---
+
+## ⚡ Technical Skills
+| Domain | Stack |
+| :--- | :--- |
+| **Languages** | Python, C, R, SQL, JavaScript (Basic) |
+| **Tools** | Git, VS Code, Low-Code Platforms |
+| **Core Skills** | Statistical Analysis, Algorithm Design, Product Thinking |
+
+## 🎯 Current Goals
+1.  **Survive & Thrive at 42:** Completing the Piscine and Circle 2 to master the fundamentals of Computer Science.
+2.  **Productize AI:** working on deploying RAG Chatbots and Predictive models to public URLs.
+3.  **Bridge Building:** translating complex technical constraints into clear business requirements.
+
+---
+<div align="left">
+  <a href="https://www.barbarayam.com">
+    <img src="https://img.shields.io/badge/Website-barbarayam.com-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="mailto:your-email-here@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</div>
