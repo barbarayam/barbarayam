@@ -6,7 +6,7 @@ I bridge the gap between business strategy and engineering reality. Currently, I
 ---
 
 ## 🧭 The Portfolio Map
-I organize my code by "Tech Stack" and purpose. Here is where you can find my work:
+I organise my code by "Tech Stack" and purpose. Here is where you can find my work:
 
 ### 🛠️ Systems Engineering & C ( The Deep Dive )
 *My journey into low-level programming, memory management, and algorithms.*
