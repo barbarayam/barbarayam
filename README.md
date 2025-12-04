@@ -32,11 +32,6 @@ I organize my code by "Tech Stack" and purpose. Here is where you can find my wo
 | **Tools** | Git, VS Code, Low-Code Platforms |
 | **Core Skills** | Statistical Analysis, Algorithm Design, Product Thinking |
 
-## 🎯 Current Goals
-1.  **Survive & Thrive at 42:** Completing the Piscine and Circle 2 to master the fundamentals of Computer Science.
-2.  **Productize AI:** working on deploying RAG Chatbots and Predictive models to public URLs.
-3.  **Bridge Building:** translating complex technical constraints into clear business requirements.
-
 ---
 <div align="left">
   <a href="https://www.barbarayam.com">
