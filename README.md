@@ -37,14 +37,6 @@ I organise my code by "Tech Stack" and purpose. Here is where you can find my wo
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=barbarayam&show_icons=true&theme=minimal" alt="Barbara's Github Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarayam&layout=compact&theme=minimal" alt="Top Languages" height="150" />
-</p>
-
----
 
 ### 📫 Connect with Me
-* **Focus:** I am currently open to conversations about **
+* **Focus:** I am currently open to conversations about AI**
