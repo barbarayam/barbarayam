@@ -1,43 +1,50 @@
-# Hi there, I'm Barbara! 👋
-> **Polytechnic Lecturer (Analytics) | 42 Singapore Cadet | Future Technical Product Manager**
+### Hi there, I'm Barbara Yam! 👋
 
-I bridge the gap between business strategy and engineering reality. Currently, I am leveraging my background in **Statistics & Analytics** while rigorously upskilling in **Computer Science (C & Algorithms)** at 42 Singapore.
+**Polytechnic Lecturer (Analytics) | 42 Singapore Cadet | Future Technical Product Manager**
+
+> 🚀 **Mission:** Bridging the gap between business strategy and engineering reality.
+
+I am an educator and analytics professional leveraging my background in **Statistics** while rigorously upskilling in **Low-Level Engineering (C)** and **Modern Web Development**. My goal is to lead AI/Tech projects by translating "business goals" into precise "technical specs."
 
 ---
 
 ## 🧭 The Portfolio Map
+
 I organise my code by "Tech Stack" and purpose. Here is where you can find my work:
 
-### 🛠️ Systems Engineering & C ( The Deep Dive )
+### 🛠️ Systems Engineering & C (The Deep Dive)
 *My journey into low-level programming, memory management, and algorithms.*
-* **[📂 42](https://github.com/barbarayam/42)**: My main repository for the 42 Curriculum. Contains my work from the Piscine (C00-C08) and upcoming Circle 2 projects.
-    * *Focus:* Memory allocation, Pointers, Unix Shell, Algorithms.
 
-### 🐍 Python & Analytics ( The Expert Zone )
-*Data automation, analysis, and scripting.*
-* **[📂 Python_Projects](https://github.com/barbarayam/Python_Projects)**: My playground for Python apps, automation scripts, and data tools.
-    * *Focus:* Automation, Data Analysis, Rapid Prototyping.
+| Repository | Description | Tech |
+| :--- | :--- | :--- |
+| **[42](https://github.com/barbarayam/42)** | **My Core Curriculum.** Contains my implementations of the standard C library (`libft`), `printf`, and Unix shell scripts from the Piscine. | `C`, `Make`, `Shell` |
 
-### 🌐 Web Development ( The Playground )
-*Experiments with frontend technologies.*
-* **[📂 basics-beat-that](https://github.com/barbarayam/basics-beat-that)**: JavaScript logic games.
-* **[📂 skills-code-with-codespaces](https://github.com/barbarayam/skills-code-with-codespaces)**: HTML/CSS structure tests.
+### 🎮 TypeScript & Web (The Playground)
+*Interactive logic games and frontend experiments.*
+
+| Repository | Description | Tech |
+| :--- | :--- | :--- |
+| **[Silver-Neuro-Gym](https://github.com/barbarayam/Silver-Neuro-Gym)** | A gamified cognitive training application. | `TypeScript` |
+| **[zero-gravity-word-search](https://github.com/barbarayam/zero-gravity-word-search)** | An interactive word search puzzle with physics-based elements. | `TypeScript` |
+| **[word-search-game](https://github.com/barbarayam/word-search-game)** | A classic logic puzzle implementation. | `TypeScript` |
+
+### 🐍 Python & Analytics (The Expert Zone)
+*Data automation, analysis, and scripting from my professional career.*
+
+| Repository | Description | Tech |
+| :--- | :--- | :--- |
+| **Python_Projects** | Automation scripts, data analysis tools, and rapid prototypes used for teaching and business logic. | `Python`, `Pandas` |
 
 ---
 
-## ⚡ Technical Skills
-| Domain | Stack |
-| :--- | :--- |
-| **Languages** | Python, C, R, SQL, JavaScript (Basic) |
-| **Tools** | Git, VS Code, Low-Code Platforms |
-| **Core Skills** | Statistical Analysis, Algorithm Design, Product Thinking |
+## 📊 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=barbarayam&show_icons=true&theme=minimal" alt="Barbara's Github Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarayam&layout=compact&theme=minimal" alt="Top Languages" height="150" />
+</p>
 
 ---
-<div align="left">
-  <a href="https://www.barbarayam.com">
-    <img src="https://img.shields.io/badge/Website-barbarayam.com-blue?style=for-the-badge&logo=google-chrome" />
-  </a>
-  <a href="mailto:your-email-here@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-</div>
+
+### 📫 Connect with Me
+* **Focus:** I am currently open to conversations about **
